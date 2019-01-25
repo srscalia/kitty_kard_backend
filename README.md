@@ -5,11 +5,14 @@
 Just for fun. Test your memory and see how quickly you can match the kitty kards!
 
 The **Kitty Kard Matching Game** times users as they select pairs of cards to match. There are 16 cards or 8 pairs of cats to match to end the game. At the end see where you stand on the scoreboard. 
-
 ## Getting Started
 
-To run this app on your local machine you must have the frontend and backend repos. For frontend instructions, see frontend repo [README.md](https://github.com/srscalia/kitty_kard_frontend).
-Clone this repo down to your local machine. In the repository, run `rails db:create && rails db:migrate`. Then run `rails s`.
+This is the backend repository for this project. To run this app on your local machine you must have both the frontend and backend repos. For frontend instructions, see frontend repo [README.md](https://github.com/srscalia/kitty_kard_frontend).
+For backend instructions, see the following: 
+1. Clone this repo down to your local machine. 
+2. In the repository, run `rails db:create && rails db:migrate`. 
+3. Run `rails s`.
+
 These instructions will get you a copy of the backend for the project up and running on your local machine for development purposes.
 
 ### Prerequisites
