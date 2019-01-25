@@ -8,7 +8,7 @@ The **Kitty Kard Matching Game** times users as they select pairs of cards to ma
 
 ## Getting Started
 
-To run this app on your local machine you must have the frontend and backend repos. For frontend instructions, see [README.md](https://github.com/srscalia/kitty_kard_frontend).
+To run this app on your local machine you must have the frontend and backend repos. For frontend instructions, see frontend repo [README.md](https://github.com/srscalia/kitty_kard_frontend).
 Clone this repo down to your local machine. In the repository, run `rails db:create && rails db:migrate`. Then run `rails s`.
 These instructions will get you a copy of the backend for the project up and running on your local machine for development purposes.
 
