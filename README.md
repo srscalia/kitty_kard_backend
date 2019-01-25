@@ -25,7 +25,7 @@ Currently there are no tests for this system.
 
 ## Built With
 
-* [Ruby on Rails](https://guides.rubyonrails.org/v5.0/index.html) - The web application development framework written in the Ruby language
+[Ruby on Rails](https://guides.rubyonrails.org/v5.0/index.html) - The web application development framework written in the Ruby language
 
 ## Contributing
 
@@ -45,4 +45,4 @@ N/A
 
 ## Acknowledgments
 
-* Thanks to [Materialize](https://materializecss.com/about.html) for the assistance with styling.
+Thanks to [Materialize](https://materializecss.com/about.html) for the assistance with styling.
